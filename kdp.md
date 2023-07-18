@@ -10,7 +10,6 @@ Throughout the book, readers will learn how to define goals and priorities, anal
 
 Whether you are facing a complex business challenge, making a critical personal decision, or simply seeking to improve your decision-making abilities, "The Decision Strategist" offers valuable insights and practical guidance for cultivating a strategic mindset and making impactful decisions. With its clear, accessible approach and emphasis on real-world application, this book is an essential resource for anyone looking to achieve success and create positive impact in the world.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
