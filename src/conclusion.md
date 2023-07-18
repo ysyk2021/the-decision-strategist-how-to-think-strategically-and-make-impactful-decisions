@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 8: Conclusion
-=====================
-
 In this final chapter, we will recap the key points discussed throughout the book and provide some final thoughts and recommendations for becoming a decision strategist.
 
 Recap of Key Points
