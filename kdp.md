@@ -13,9 +13,6 @@ Whether you are facing a complex business challenge, making a critical personal 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
-
-Sure, here are 20 Amazon search keywords related to "The Decision Strategist: How to Think Strategically and Make Impactful Decisions":
-
 1. Strategic thinking
 2. Decision-making
 3. Problem-solving
