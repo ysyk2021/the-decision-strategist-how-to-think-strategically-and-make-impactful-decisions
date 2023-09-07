@@ -1,5 +1,3 @@
-Chapter 4: Tools and Techniques for Decision Strategy
-=====================================================
 
 In this chapter, we will explore various tools and techniques that can be used for decision strategy.
 

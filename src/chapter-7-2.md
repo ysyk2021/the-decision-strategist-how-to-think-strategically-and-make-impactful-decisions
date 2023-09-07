@@ -1,5 +1,3 @@
-Analyzing and Interpreting Data on Decision Making
-=====================================================================================================
 
 In this chapter, we will explore how to analyze and interpret data on decision-making processes to measure success in decision strategy.
 

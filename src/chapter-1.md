@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the purpose and scope of the book "The Decision Strategist: How to Think Strategically and Make Impactful Decisions."
 

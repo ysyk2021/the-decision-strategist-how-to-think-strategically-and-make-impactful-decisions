@@ -1,5 +1,3 @@
-Recognizing the Role of Strategic Thinking in Decision Making
-=========================================================================================================
 
 In this chapter, we will explore the importance of strategic thinking in decision-making and how it can help decision-makers make more informed choices.
 

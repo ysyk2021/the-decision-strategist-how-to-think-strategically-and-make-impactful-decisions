@@ -1,5 +1,3 @@
-Applying Decision Strategy for Personal Development and Life Transitions
-==============================================================================================================================================
 
 In this chapter, we will explore how to apply decision strategy for personal development and navigating life transitions.
 

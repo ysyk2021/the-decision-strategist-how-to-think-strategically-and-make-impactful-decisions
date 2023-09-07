@@ -1,5 +1,3 @@
-Dealing with Resistance and Opposition to Decisions
-======================================================================================================================
 
 In this chapter, we will explore how to overcome obstacles and challenges in decision making, specifically dealing with resistance and opposition to decisions.
 

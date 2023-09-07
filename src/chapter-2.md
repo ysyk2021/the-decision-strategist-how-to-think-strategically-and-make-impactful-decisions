@@ -1,5 +1,3 @@
-Chapter 2: Understanding Decision Strategy
-==========================================
 
 In this chapter, we will explore the concept of decision strategy and its importance in making informed choices.
 

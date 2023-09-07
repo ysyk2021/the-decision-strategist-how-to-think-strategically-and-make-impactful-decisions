@@ -1,5 +1,3 @@
-Chapter 3: Strategies for Effective Decision Making
-===================================================
 
 In this chapter, we will explore strategies for effective decision-making that can help decision-makers make informed choices.
 

@@ -1,5 +1,3 @@
-Chapter 6: Applying Decision Strategy Across Different Areas of Life
-====================================================================
 
 In this chapter, we will explore how to apply decision strategy across different areas of life, including business, personal development, and community involvement.
 

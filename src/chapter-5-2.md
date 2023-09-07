@@ -1,5 +1,3 @@
-Navigating Ambiguity and Uncertainty in Decision Making
-==========================================================================================================================
 
 In this chapter, we will explore how to overcome obstacles and challenges in decision-making processes by navigating ambiguity and uncertainty.
 

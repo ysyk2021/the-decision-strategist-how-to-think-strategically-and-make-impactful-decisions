@@ -1,5 +1,3 @@
-Chapter 5: Overcoming Obstacles and Challenges in Decision Making
-=================================================================
 
 In this chapter, we will explore some common obstacles and challenges that decision-makers face and strategies for overcoming them.
 

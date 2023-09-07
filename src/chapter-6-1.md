@@ -1,5 +1,3 @@
-Using Decision Strategy for Business and Entrepreneurship
-===============================================================================================================================
 
 In this chapter, we will explore how to apply decision strategy in business and entrepreneurship to make more informed choices that are aligned with overall goals and objectives.
 

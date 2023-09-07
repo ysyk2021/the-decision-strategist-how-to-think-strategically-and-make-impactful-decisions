@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success in Decision Strategy
-=================================================
 
 In this chapter, we will explore how to measure success in decision strategy and continuously improve decision-making processes over time.
 

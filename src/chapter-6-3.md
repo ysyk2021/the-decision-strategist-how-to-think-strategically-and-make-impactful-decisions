@@ -1,5 +1,3 @@
-Using Decision Strategy for Community Involvement and Social Justice
-==========================================================================================================================================
 
 In this chapter, we will explore how to apply decision strategy across different areas of life, specifically focusing on using decision strategy for community involvement and social justice.
 

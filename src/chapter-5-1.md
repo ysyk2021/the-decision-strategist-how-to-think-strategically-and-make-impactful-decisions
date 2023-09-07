@@ -1,5 +1,3 @@
-Managing Bias and Emotional Triggers in Decision Making
-==========================================================================================================================
 
 In this chapter, we will explore how to overcome obstacles and challenges in decision-making processes by managing bias and emotional triggers.
 
