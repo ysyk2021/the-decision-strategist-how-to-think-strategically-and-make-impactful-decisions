@@ -29,3 +29,5 @@
   - [Analyzing and Interpreting Data on Decision Making](chapter-7-2.md)
   - [Continuously Improving Decision Strategy Approaches and Mindsets](chapter-7-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
