@@ -1,5 +1,4 @@
-Chapter: Identifying Different Types of Decision Making
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore different types of decision making that decision strategists can employ based on the nature of the decision and the available information. Understanding these different types of decision making can help decision makers approach each decision with the appropriate mindset and strategic framework.*
 

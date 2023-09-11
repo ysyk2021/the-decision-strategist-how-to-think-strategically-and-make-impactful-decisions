@@ -1,5 +1,4 @@
-Chapter: Gathering Information and Analyzing Data
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore the importance of gathering information and analyzing data in the process of making strategic and impactful decisions. By collecting relevant information and applying effective data analysis techniques, decision strategists can enhance their decision-making capabilities and increase the likelihood of achieving desired outcomes.*
 

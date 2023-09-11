@@ -1,5 +1,4 @@
-Chapter: Formulating Options and Evaluating Alternatives
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore the process of formulating options and evaluating alternatives in order to make strategic and impactful decisions. By considering a range of options and systematically evaluating their merits, decision strategists can maximize their ability to choose the most suitable course of action.*
 

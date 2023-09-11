@@ -1,5 +1,4 @@
-Chapter: Continuously Improving Decision Strategy Approaches and Mindsets
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore the importance of continuously improving decision strategy approaches and mindsets. By embracing a mindset of continuous learning and improvement, decision strategists can adapt to changing environments, enhance their decision-making skills, and drive more impactful outcomes.*
 

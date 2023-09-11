@@ -1,5 +1,4 @@
-Chapter: Choosing and Implementing Decisions with Intention and Clarity
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore the importance of choosing and implementing decisions with intention and clarity. By approaching decision-making with a deliberate mindset and ensuring clear execution, decision strategists can increase the likelihood of achieving desired outcomes and driving impactful results.*
 

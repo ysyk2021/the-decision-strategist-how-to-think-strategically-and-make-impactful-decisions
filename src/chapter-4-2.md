@@ -1,5 +1,4 @@
-Chapter: Incorporating Risk Management Techniques into Decision Making
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Risk management is an essential aspect of decision-making processes that helps decision strategists identify, assess, and mitigate potential risks. In this chapter, we will explore key strategies and techniques for incorporating risk management into decision making to ensure informed and effective decision making.*
 

@@ -1,5 +1,4 @@
-Chapter: Metrics and Key Performance Indicators (KPIs) for Decision Strategy
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *In this chapter, we will explore the importance of using metrics and Key Performance Indicators (KPIs) in evaluating and measuring the effectiveness of decision strategies. By establishing relevant metrics and KPIs, decision strategists can track progress, identify areas for improvement, and ensure that decisions align with organizational goals and objectives.*
 
